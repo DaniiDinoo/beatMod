@@ -10,6 +10,7 @@ import sys
 
 #Este es un comentario para probar el repo
 #Esre comentario lo estoy haciendo en una nueva branch
+#Este es otro irrelevante
 class Box(QLabel):
     def __init__(self, color: str):
         super().__init__()
