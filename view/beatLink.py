@@ -8,6 +8,7 @@ import qtawesome as qta  #https://fontawesome.com/v5/search?o=r&m=free&s=solid
 import sys
 
 
+#Este es un comentario para probar el repo
 class Box(QLabel):
     def __init__(self, color: str):
         super().__init__()
